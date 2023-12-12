@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #3498db; /* Header background color */
+    color: #fff; /* Text color */
+  }
+  
+  .logo {
+    /* Add styles for your logo */
+  }
+  
+  .menu-list {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .menu-list li {
+    font-size: 16px;
+  }
+  
+  .menu-list a {
+    text-decoration: none;
+    color: #fff; /* Menu item text color */
+  }
+  
+  .menu-list a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  
