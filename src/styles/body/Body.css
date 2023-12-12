@@ -36,5 +36,20 @@ body {
   .main-services div:hover {
     background-color: #2980b9;
   }
+
+  .top-body{
+    display: flex;
+  }
+
+
+  .mid-body{
+    display: flex;
+  }
+  
+  .bottom-body{
+    display: flex;
+  }
+  
+ 
   
  
